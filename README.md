@@ -1,5 +1,5 @@
-#Ranek Project
-##Origamid's react course exercise project, the objective was to test the knowledge of routers by creating an application for an electronics store using an external Api that connected images, photos and product information to the website.
+# Ranek Project
+## Origamid's react course exercise project, the objective was to test the knowledge of routers by creating an application for an electronics store using an external Api that connected images, photos and product information to the website.
 
 # Getting Started with Create React App
 
