@@ -1,5 +1,7 @@
 # Ranek Project
 
+![gif Ranek](https://user-images.githubusercontent.com/86026272/138973471-42d42085-b779-485c-bdfc-60d02ce80c41.gif)
+
 # about
 
 ## Origamid's react course exercise project, the objective was to test the knowledge of routers by creating an application for an electronics store using an external Api that connected images, photos and product information to the website.
