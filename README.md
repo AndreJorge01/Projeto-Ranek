@@ -6,6 +6,8 @@
 
 ## Origamid's react course exercise project, the objective was to test the knowledge of routers by creating an application for an electronics store using an external Api that connected images, photos and product information to the website.
 
+# Technologies used
+
 # How to run the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
