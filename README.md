@@ -10,7 +10,7 @@
 + React
 + HTML
 + CSS
-+ javaScript.
++ javaScript
 
 # How to run the project
 
