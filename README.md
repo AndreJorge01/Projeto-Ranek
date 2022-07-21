@@ -1,4 +1,4 @@
-# Ranek Project
+# Ranek Project.
 
 ![gif Ranek](https://user-images.githubusercontent.com/86026272/138973471-42d42085-b779-485c-bdfc-60d02ce80c41.gif)
 
