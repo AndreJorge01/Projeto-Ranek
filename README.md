@@ -8,7 +8,7 @@
 
 # Technologies used.
 + React.
-+ HTML
++ HTML.
 + CSS
 + javaScript
 
