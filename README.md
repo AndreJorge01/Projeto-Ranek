@@ -9,7 +9,7 @@
 # Technologies used.
 + React.
 + HTML.
-+ CSS
++ CSS.
 + javaScript
 
 # How to run the project
